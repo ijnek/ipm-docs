@@ -7,7 +7,7 @@ Inverse Perspective Mapping (IPM)
 =================================
 
 Inverse Perspective Mapping (IPM) is the process of converting 2D points from images into 3D points
-without using depth information, by assuming the points lie on an arbitrary plane. 
+without using depth information, by assuming the points lie on an arbitrary plane.
 
 The project is hosted on `Github`_ by ROS Sports. **Issues and Pull Requests are welcome!**
 
@@ -16,5 +16,9 @@ The project is hosted on `Github`_ by ROS Sports. **Issues and Pull Requests are
 
    installation
    tutorial
+   ipm_interfaces
+   ipm_image_node
+   ipm_library
+   ipm_service
 
 .. _Github: https://github.com/ros-sports/ipm
