@@ -16,6 +16,9 @@ The project is hosted on `Github`_ by ROS Sports. **Issues and Pull Requests are
 
    installation
    tutorial
+   ipm_interfaces
    ipm_image_node
+   ipm_library
+   ipm_service
 
 .. _Github: https://github.com/ros-sports/ipm
